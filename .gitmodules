@@ -1,9 +1,0 @@
-[submodule "Car-Rental-Management-System"]
-	path = Car-Rental-Management-System
-	url = https://github.com/kumarpulkit8981/Car-Rental-Management-System.git
-[submodule "brew-and-bloom-cafe"]
-	path = brew-and-bloom-cafe
-	url = https://github.com/kumarpulkit8981/brew-and-bloom-cafe.git
-[submodule "Event-Management-System"]
-	path = Event-Management-System
-	url = https://github.com/kumarpulkit8981/Event-Management-System.git
